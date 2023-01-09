@@ -1,0 +1,33 @@
+body{
+    background-color:#3F0071;
+}
+
+.p{
+    text-align: center;
+    font-size: 50px;
+    margin-left: 440px;
+    padding-left: 9px;
+    margin-top: 150px;
+    
+}
+.button1{
+    background-color:#FB2576;
+    padding: 17px 40px;
+    margin-left: 33%;
+    text-align: center;
+    margin-left: 25%;
+    border-radius: 8px;
+    color:white;
+    margin-top: 40px;
+}
+.button2{
+    background-color:#FB2576;
+    padding: 17px 50px;
+    margin-right: 10%;
+    text-align: center;
+    margin-left: 10%;
+    border-radius: 8px;
+    color:white;
+    margin-top: 40px;
+
+}
